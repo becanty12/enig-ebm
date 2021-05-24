@@ -7,7 +7,7 @@ $msg = "Nom:\t$Nomr\n";
 //$msg .= "E-mail:\t $_POST['email'] \n";
 //$msg .= "Message:\t $message\n\n";
 
-$recipient = "konatenhamed@mail.com";
+$recipient = "contact@enig-ebm.com, ekoffi13.ek@gmail.com";
 $subject = "Formulaire";
 
 $mailheaders = "From: Mon site web<> \n";
